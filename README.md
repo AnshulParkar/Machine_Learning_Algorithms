@@ -9,6 +9,20 @@ This repository contains a collection of machine learning algorithms implemented
 - Data Preprocessing Techniques
 - Example Datasets and Visualizations
 
+
+The following Python libraries are used throughout the notebooks:
+
+- `numpy`
+- `pandas`
+- `scikit-learn`
+- `matplotlib`
+- `seaborn`
+- `ipykernel`
+- `jupyter`
+
+Additional libraries may be used in specific notebooks and will be listed in their respective sections or requirements files.
+
+
 ## How to Run the Notebooks
 
 All notebooks are developed and tested in Visual Studio Code using the Jupyter extension. The Python environment is managed with Conda:
